@@ -6,4 +6,4 @@ function Parthiban() {
     </div>
   );
 }
-
+export default Parthiban;
